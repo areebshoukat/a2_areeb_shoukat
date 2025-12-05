@@ -12,3 +12,4 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 Update 1
 Update 2
 Update 3
+Add project description to README
