@@ -14,4 +14,5 @@ Update 2
 Update 3
 Add project description to README
 Add installation instructions to README
+Add usage instructions to README
 
