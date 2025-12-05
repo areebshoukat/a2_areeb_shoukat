@@ -24,4 +24,5 @@ Minor cleanup in README formatting
 Update README with link to Snack project
 Add comment for loading indicator usage
 Clarify navigation setup in comments
+Add troubleshooting notes in README
 
