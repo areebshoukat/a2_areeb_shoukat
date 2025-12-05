@@ -27,4 +27,5 @@ Clarify navigation setup in comments
 Add troubleshooting notes in README
 Add feature summary to README
 Add small styling comment in MainScreen styles
+Final cleanup before submission
 
