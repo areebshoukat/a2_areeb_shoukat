@@ -20,5 +20,6 @@ Add comments to MainScreen.js for API logic
 Add comments to LabeledInput component
 Update README with API details
 Add comment for loading indicator usage
+Minor cleanup in README formatting
 
 
