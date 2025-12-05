@@ -17,3 +17,6 @@ Add installation instructions to README
 Add usage instructions to README
 Add comments to App.js for navigation explanation
 Add comments to MainScreen.js for API logic
+Add comments to LabeledInput component
+
+
